@@ -29,5 +29,6 @@ Feel free to open an issue or submit a pull request.
 
 📬 Contact
 Muluwerk Derebe
-Statistical Analyst & Researcher
+Data Scientist
+
 GitHub: muluwerkderebe‑StatisticalAnalyst
