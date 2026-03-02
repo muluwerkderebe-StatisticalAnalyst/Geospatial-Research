@@ -10,7 +10,9 @@ This repository serves as a central hub for:
 - Applied geospatial research in public health, environmental science, and socio‑economic studies
 - Reproducible workflows using Python, R, and GIS tools
 Each project emphasizes methodological clarity, clean code, and meaningful interpretation of spatial patterns.
+
 🧭 Research Themes
+
 The repository includes studies and examples related to:
 - Spatial autocorrelation (Moran’s I, Geary’s C)
 - Hotspot analysis (Getis‑Ord Gi*)
