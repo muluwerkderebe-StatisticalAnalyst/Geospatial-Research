@@ -32,4 +32,4 @@ Feel free to open an issue or submit a pull request.
 Muluwerk Derebe
 Data Scientist
 
-GitHub: muluwerkderebe‑StatisticalAnalyst
+GitHub: [muluwerkderebe‑StatisticalAnalyst](https://github.com/muluwerkderebe-StatisticalAnalyst)
