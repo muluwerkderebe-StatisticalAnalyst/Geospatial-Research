@@ -1,6 +1,6 @@
 # 🌍 Geospatial Research
  * Welcome to Geospatial Research, a curated collection of spatial analytics projects exploring geographic patterns, spatial statistics, and location‑based insights. 
- * This repository is maintained by Muluwerk Derebe, a statistician and data analyst with strong experience in statistical modeling, Data Visualization, research methodology, and modern geospatial tools.
+ * This repository is maintained by [Muluwerk Derebe](https://github.com/muluwerkderebe-StatisticalAnalyst), a statistician and data scientist with strong experience in statistical modeling, Data Visualization, research methodology, and modern geospatial tools.
 * This space brings together reproducible workflows, geospatial datasets, and analytical scripts designed to support academic research, applied analytics, and portfolio‑ready demonstrations.
 
 # 🎯 Purpose of This Repository
